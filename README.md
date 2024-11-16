@@ -3,7 +3,7 @@
 An implementation of SHA-3 cryptography algorithm in Gleam language.
 
 ```sh
-git clone https://github.com/denizbasgoren/gleam_sha3
+git clone https://github.com/denizbasgoren/sha3_gleam
 cd gleam_sha3
 gleam run
 ```
